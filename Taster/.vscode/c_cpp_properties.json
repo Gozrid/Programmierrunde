@@ -8,8 +8,8 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "/home/fabian/CLionProjects/untitled/include",
-                "/home/fabian/CLionProjects/untitled/src",
+                "/home/fabian/GIT/Gozrid GitHub/Programmierrunde/include",
+                "/home/fabian/GIT/Gozrid GitHub/Programmierrunde/src",
                 "/home/fabian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                 "/home/fabian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
                 "/home/fabian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
@@ -244,8 +244,8 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "/home/fabian/CLionProjects/untitled/include",
-                    "/home/fabian/CLionProjects/untitled/src",
+                    "/home/fabian/GIT/Gozrid GitHub/Programmierrunde/include",
+                    "/home/fabian/GIT/Gozrid GitHub/Programmierrunde/src",
                     "/home/fabian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                     "/home/fabian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
                     "/home/fabian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
