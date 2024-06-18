@@ -1,3 +1,3 @@
 # Programmierrunde
-1. [Taster](./tree/master/Taster)
-2. [E-Ink Basic UI](./tree/master/E-Ink-Basic-UI)
+1. [Taster](./Taster)
+2. [E-Ink Basic UI](./E-Ink-Basic-UI)
