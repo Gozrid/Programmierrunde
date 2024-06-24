@@ -1,5 +1,19 @@
 #include <GxEPD2_BW.h>
 
+/*
+ * | Display | Firebeetle |
+ * | ------- | ---------- |
+ * | CS      | 5          |
+ * | DC      | 0          |
+ * | RST     | 13         |
+ * | BUSY    | 10         |
+ * | DIN     | 23         |
+ * | CLK     | 18         |
+ * | GND     | GND        |
+ * | VCC     | 3.3V       |
+ * | ------- | ---------- |
+ */
+
 GxEPD2_BW<GxEPD2_290_GDEY029T94, GxEPD2_290_GDEY029T94::HEIGHT> display(
         GxEPD2_290_GDEY029T94(/*CS=*/ SS, /*DC=*/ 0, /*RST=*/ 13, /*BUSY=*/10));
 
