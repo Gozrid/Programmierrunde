@@ -5,7 +5,7 @@
 #include <Arduino.h>
 #include "notes.h"
 
-#define BUZZER_PIN 27
+#define BUZZER_PIN 25
 
 int melody[] = {
         NOTE_E5, NOTE_E5, NOTE_E5,
